@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bugsly": {
+      "type": "http",
+      "url": "https://bugsly.dev/api/mcp"
+    }
+  }
+}

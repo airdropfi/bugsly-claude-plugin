@@ -1,0 +1,27 @@
+{
+  "name": "bugsly",
+  "displayName": "Bugsly",
+  "version": "1.0.0",
+  "description": "Read, search and triage the errors in your Bugsly projects from Claude Code: stack traces, cron and uptime monitors, crash-free rate. Status changes only on request.",
+  "author": {
+    "name": "Bugsly",
+    "email": "hello@bugsly.dev",
+    "url": "https://bugsly.dev"
+  },
+  "homepage": "https://bugsly.dev/agents",
+  "repository": "https://github.com/airdropfi/bugsly-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "error monitoring",
+    "error tracking",
+    "debugging",
+    "stack trace",
+    "observability",
+    "mcp"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://bugsly.dev/agents",
+  "supportUrl": "https://bugsly.dev/agents",
+  "privacyPolicyUrl": "https://bugsly.dev/privacy",
+  "termsOfServiceUrl": "https://bugsly.dev/terms"
+}
